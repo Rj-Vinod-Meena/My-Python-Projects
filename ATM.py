@@ -1,4 +1,4 @@
-# Project: Basic ATM System
+# Project: Smart Banking system 
 # Features: Check Balance, Deposit, Withdraw, Exit
 
 balance = 10000  # Initial amount
