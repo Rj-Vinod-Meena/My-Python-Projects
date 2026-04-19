@@ -51,7 +51,7 @@ Enter Stock Name: TCS
 
 * Internet connection required
 * Data depends on Yahoo Finance API
-
+----
 
 
 # 2. 🛒 E-commerce Sales Analysis (`ecommerce_analysis.py`)
@@ -60,7 +60,7 @@ Enter Stock Name: TCS
 - **Logic:** Calculated **Total Revenue** (Price × Quantity) for each order.
 - **Analysis:** Grouped data by 'Product' to find the **Best-Selling Products**.
 - **Visuals:** Created a Bar Chart using **Seaborn** to visualize product performance.
-
+----
  # 3. 🏧 ATM Banking System (`ATM.py`)
 > **Tech Stack:** Core Python (Loops & Conditions)
 - **Logic Building:** A simulation of a real ATM machine.
