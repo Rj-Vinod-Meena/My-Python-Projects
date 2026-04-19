@@ -52,9 +52,6 @@ Enter Stock Name: TCS
 * Internet connection required
 * Data depends on Yahoo Finance API
 
-## 👨‍💻 Author
-
-Kabir
 
 
 #### 2. 🛒 E-commerce Sales Analysis (`ecommerce_analysis.py`)
