@@ -52,7 +52,7 @@ Enter Stock Name: TCS
 * Internet connection required
 * Data depends on Yahoo Finance API
 ----
-
+----
 
 # 2. 🛒 E-commerce Sales Analysis (`ecommerce_analysis.py`)
 > **Tech Stack:** Python, Pandas, Seaborn, NumPy
@@ -61,17 +61,23 @@ Enter Stock Name: TCS
 - **Analysis:** Grouped data by 'Product' to find the **Best-Selling Products**.
 - **Visuals:** Created a Bar Chart using **Seaborn** to visualize product performance.
 ----
+----
+
  # 3. 🏧 ATM Banking System (`ATM.py`)
 > **Tech Stack:** Core Python (Loops & Conditions)
 - **Logic Building:** A simulation of a real ATM machine.
 - **Features:** Includes **PIN Authentication**, Balance Check, Withdrawal logic (with validation), and Deposit system.
 - **Looping:** Uses `while` loops to keep the menu running until the user chooses to exit.
+-----
+-----
 
 # 4. 📊 Student Exam Analysis (`marks_analysis.py`)
 > **Tech Stack:** Python, NumPy
 - **Matrix Operations:** Used 2D NumPy arrays to store marks of 5 students across 3 subjects.
 - **Calculations:** Computed **Total Marks** (axis=1) and **Class Average**.
 - **Filtering Logic:** Applied Boolean Masking to filter students who **Passed** (Total > 150).
+----
+----
 
 # 5. 📈 Weekly Sales Report (`sales_analysis.py`)
 > **Tech Stack:** Python, Pandas, Matplotlib
