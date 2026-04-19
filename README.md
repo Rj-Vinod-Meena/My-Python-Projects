@@ -4,7 +4,7 @@ Welcome to my project repository! Here, I have applied **Python, NumPy, Pandas, 
 
 ---
 
-### 📂 Project Details:
+## 📂 Project Details:
 # 1. 📊 Stock Analyzer (Python)
 
 This is a Python-based Stock Analysis Tool that fetches real-time financial data and generates:
@@ -54,7 +54,7 @@ Enter Stock Name: TCS
 
 
 
-#### 2. 🛒 E-commerce Sales Analysis (`ecommerce_analysis.py`)
+# 2. 🛒 E-commerce Sales Analysis (`ecommerce_analysis.py`)
 > **Tech Stack:** Python, Pandas, Seaborn, NumPy
 - **Simulation:** Generated a dummy dataset of **100 orders** using NumPy.
 - **Logic:** Calculated **Total Revenue** (Price × Quantity) for each order.
